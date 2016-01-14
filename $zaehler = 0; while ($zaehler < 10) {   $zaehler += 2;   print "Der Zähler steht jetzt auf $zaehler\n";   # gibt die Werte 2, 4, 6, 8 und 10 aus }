@@ -1,6 +1,0 @@
-$zaehler = 0;
-while ($zaehler < 10) {
-  $zaehler += 2;
-  print "Der Zähler steht jetzt auf $zaehler\n";
-  # gibt die Werte 2, 4, 6, 8 und 10 aus
-}
