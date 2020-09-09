@@ -1,3 +1,4 @@
+# comment
 $zaehler = 0;
 while ($zaehler < 10) {
   $zaehler += 2;
